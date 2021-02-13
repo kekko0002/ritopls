@@ -1,6 +1,7 @@
 # [Taric](https://taric-gg.firebaseapp.com/home)
 
-Get stats and detailed match history of your league of legends games with Taric!
+Get stats and detailed match history of your league of legends games with Taric.
+You can look at the website preview [here](https://taric-gg.firebaseapp.com/home)!
 
 ## Overview
 
