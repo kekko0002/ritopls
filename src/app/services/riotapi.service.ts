@@ -29,7 +29,7 @@ export class RiotapiService {
    * http requests.
    */
 
-  private apiKey = 'RGAPI-82fa9cf5-a303-4ed2-abe0-49cfed3bbee3'; // Paste your API key here
+  private apiKey = '';  // Paste your API key here
 
   // https://thawing-savannah-71764.herokuapp.com/ added for CORS before 'https://', you can remove it if you use
   // chrome without web security
